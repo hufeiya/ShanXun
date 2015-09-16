@@ -1,2 +1,2 @@
-# ShanXun
-自己用的闪讯路由拨号器和心跳包,来自开源项目sx_pi和Anti_teNelgniS的改写
+# Anti_teNelgniS
+Some core functions about new sx
